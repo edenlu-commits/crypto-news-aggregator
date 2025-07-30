@@ -1,3 +1,7 @@
+import json
+import pandas as pd
+from pathlib import Path
+
 def save_results(results, json_path: str | None = None, csv_path: str | None = None, output_dir: str | None = None, output_format: str = "json") -> None:
     """
     Save results to JSON or CSV file(s).
