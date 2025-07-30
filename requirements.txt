@@ -1,0 +1,4 @@
+feedparser
+praw
+requests
+pandas
