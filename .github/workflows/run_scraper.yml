@@ -1,9 +1,7 @@
 name: Run Crypto Scraper
 
 on:
-  schedule:
-    - cron: "*/30 * * * *"  # runs every 30 minutes
-  workflow_dispatch:  # allows manual run
+  workflow_dispatch:
 
 jobs:
   scrape:
@@ -30,7 +28,7 @@ jobs:
           REDDIT_USER_AGENT: "crypto_news_scraper/0.1"
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          python scraper/crypto_news_scraper.py
+          python -m scraper.crypto_news_scraper
 
       - name: Commit results
         run: |
