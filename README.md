@@ -6,10 +6,11 @@ project by adding two key features:
 1. **Date Filtering** – Only stories published on the current day
    (based on the Asia/Jerusalem timezone) are included. This keeps the
    output focused on the most recent news.
-2. **Clickable HTML List** – After scraping, an HTML page (`data/latest.html`)
-   is generated that lists all scraped headlines as links. Each headline
-   is clickable and directs you to the original source. This makes it
-   easy to browse the day’s news from a web browser.
+2. **Clickable HTML List** – After scraping, an HTML page
+   ([data/latest.html](data/latest.html)) is generated that lists all
+   scraped headlines as links. Each headline is clickable and directs
+   you to the original source. This makes it easy to browse the day’s
+   news from a web browser.
 
 The rest of the project remains the same: it monitors selected Twitter
 accounts, Reddit subreddits, RSS feeds and GitHub repositories and
@@ -87,8 +88,9 @@ crypto-news-aggregator/
 
    The script will write the latest aggregated data to
    `data/latest.json` and generate a clickable list at
-   `data/latest.html`. The HTML file shows only today’s news and makes
-   it easy to click through to the original sources.
+   [data/latest.html](data/latest.html). The HTML file shows only
+   today’s news and makes it easy to click through to the original
+   sources.
 
 ## Continuous scraping via GitHub Actions
 
