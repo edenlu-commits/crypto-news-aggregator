@@ -1,6 +1,14 @@
 [
   {
     "platform": "rss",
+    "source": "The Defiant",
+    "title": "US Subsidiary of Early Chinese Game Dev Snail Digital Explores Stablecoin",
+    "url": "https://thedefiant.io/news/tradfi-and-fintech/us-subsidiary-of-early-chinese-game-dev-snail-digital-explores-stablecoin",
+    "summary": "Snail Inc. is selling its shares to fund its “digital asset initiative,” including a possible stablecoin.",
+    "published": "2025-08-11T19:20:22+00:00"
+  },
+  {
+    "platform": "rss",
     "source": "Bankless",
     "title": "Uniswap Foundation Eyeing Refreshed Entity Under WY Framework",
     "url": "https://www.bankless.com/read/uniswap-foundation-eyeing-refreshed-entity-under-wy-framework",
@@ -92,7 +100,7 @@
     "source": "Bankless",
     "title": "Tom Lee's BitMine Surpasses 1M ETH, Taking Its Treasury Near $5B",
     "url": "https://www.bankless.com/bitmine-adds-317-000-eth-takes-its-treasury-near-5-b",
-    "summary": "Tom Lee has surpassed 1 million ETH held in his treasury company BitMine.",
+    "summary": "Tom Lee is making rapid progress as he looks to acquire 5% of ETH.",
     "published": "2025-08-11T13:22:06+00:00"
   },
   {
@@ -105,11 +113,11 @@
   },
   {
     "platform": "rss",
-    "source": "The Defiant",
-    "title": "LayerZero Proposes $110 Million Buyout of Stargate Bridge and Token",
-    "url": "https://thedefiant.io/news/defi/layerzero-proposes-110-million-buyout-stargate-bridge-token-b131b30e",
-    "summary": "LayerZero Foundation has put forward a $110 million proposal to acquire the Stargate cross-chain bridge and all outstanding STG tokens, seeking to fold the asset into its own interoperability network",
-    "published": "2025-08-11T13:05:02+00:00"
+    "source": "Bankless",
+    "title": "White House Crypto Adviser Bo Hines Steps Down",
+    "url": "https://www.bankless.com/read/white-house-crypto-adviser-bo-hines-steps-down",
+    "summary": "The White House Crypto Council director is leaving for an unannounced private sector position.",
+    "published": "2025-08-11T09:31:00+00:00"
   },
   {
     "platform": "rss",
